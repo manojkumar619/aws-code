@@ -20,8 +20,8 @@ table= customtable
 db_conn = connections.Connection(
     host= customhost,
     port=3306,
-    user= customuser,
-    password= custompass,
+    user= admin,
+    password= manoj123,
     db= customdb
     
 )
